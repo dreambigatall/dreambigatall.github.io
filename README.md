@@ -6,10 +6,10 @@ This project showcases a fully functional Tic Tac Toe game built using HTML, CSS
 
 Features
 Classic Tic Tac Toe gameplay
-Smooth user interface ✨
+Smooth user interface .
 Clear win/loss/tie indicators
 Reset functionality for new games
-Player vs Player mode (if implemented)
+Player vs Player mode.
 
 Technologies Used
 HTML for structuring the game board and elements
