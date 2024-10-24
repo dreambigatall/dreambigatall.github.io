@@ -24,6 +24,12 @@ Use code with caution. Learn more
 Open the index.html file in your browser.
 
 Start playing!
+![x](https://github.com/user-attachments/assets/4990c6bc-ad41-4dea-82b3-2f57451cb479)
+
+
+![y](https://github.com/user-attachments/assets/729db2f1-896b-447a-8d67-3ed4f34350da)
+
+
 
 
 I'm open to feedback and contributions! Feel free to create issues or pull requests.
